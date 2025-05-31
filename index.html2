@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>Hello, I'm Aditi!</h1>
+
+    <img src="https://via.placeholder.com/150" alt="Profile Photo">
+
+    <h2>About Me</h2>
+    <p>I am learning HTML and building my own web pages!</p>
+
+    <h3>My Hobbies</h3>
+    <ul>
+        <li>Reading</li>
+        <li>Drawing</li>
+        <li>Coding</li>
+    </ul>
+
+    <h3>Connect with me</h3>
+    <a href="https://www.linkedin.com" target="_blank">LinkedIn Profile</a>
+
+</body>
+</html>
+
